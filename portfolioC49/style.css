@@ -1,0 +1,71 @@
+h1 {
+    color: rgb(245, 0, 0);
+}
+
+/*
+* {
+    border: solid;
+}
+
+*/
+
+
+
+.javaScript{
+
+    background-color: rgb(250, 246, 3);
+
+
+}
+
+
+p,h2{
+
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+
+.header{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+
+}
+
+.item{
+
+    justify-content: center;
+
+
+}
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
